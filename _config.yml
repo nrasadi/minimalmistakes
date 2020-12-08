@@ -94,9 +94,10 @@ analytics:
 # Site Author
 author:
   name             : "Navidreza Asadi"
-  avatar           : "assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Research Assistant"
-  location         : "EASY Lab, Sharif University of Technology"
+  location         : "EASY Lab  
+  Sharif University of Technology"
   email            : "nrasadi(((at)))ce(((dot)))sharif(((dot)))edu"
   links:
     - label: "Email"
